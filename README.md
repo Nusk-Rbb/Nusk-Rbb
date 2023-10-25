@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/tocoteron">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nusk-Rbb&layout=compact&theme=dracula" />
 </a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nusk-Rbb&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
