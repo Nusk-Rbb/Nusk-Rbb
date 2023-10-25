@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 # My GitHub Status
 ![](https://github-readme-stats.vercel.app/api?username=Nusk-Rbb&count_private=true&show_icons=true&theme=dracula)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tocoteron&layout=compact&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nusk-Rbb&layout=compact&theme=dracula)
