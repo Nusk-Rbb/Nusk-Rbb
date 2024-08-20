@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nusk-rbb&show_icons=true&locale=en" alt="nusk-rbb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nusk-rbb&" alt="nusk-rbb" /></p>
+
+![Recently Musics](https://lastfm-recently-played.vercel.app/api?user=NuskRbb&header_style=normal_stats&footer_style=wave&loved_style=1)
