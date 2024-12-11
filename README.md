@@ -24,3 +24,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nusk-rbb&" alt="nusk-rbb" /></p>
 
 ![Recently Musics](https://lastfm-recently-played.vercel.app/api?user=NuskRbb&header_style=normal_stats&footer_style=wave&loved_style=4)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
