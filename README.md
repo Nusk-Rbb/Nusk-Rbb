@@ -26,4 +26,20 @@
 ![Recently Musics](https://lastfm-recently-played.vercel.app/api?user=NuskRbb&header_style=normal_stats&footer_style=wave&loved_style=4)
 
 <!--START_SECTION:waka-->
+
+```go
+From: 20 August 2024 - To: 11 December 2024
+
+Total Time: 87 hrs 7 mins
+
+Go              29 hrs 4 mins   ████████░░░░░░░░░░░░░░░░░   32.63 %
+PHP             22 hrs 30 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.26 %
+CSS             6 hrs 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+HTML            5 hrs 56 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+INI             4 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+SQL             4 hrs 15 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Markdown        3 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+Other           1 hr 57 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+```
+
 <!--END_SECTION:waka-->
