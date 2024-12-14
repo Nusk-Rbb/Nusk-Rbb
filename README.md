@@ -28,18 +28,18 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 20 August 2024 - To: 11 December 2024
+From: 20 August 2024 - To: 12 December 2024
 
-Total Time: 87 hrs 7 mins
+Total Time: 88 hrs 57 mins
 
-Go              29 hrs 4 mins   ████████░░░░░░░░░░░░░░░░░   32.63 %
-PHP             22 hrs 30 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.26 %
-CSS             6 hrs 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-HTML            5 hrs 56 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
-INI             4 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-SQL             4 hrs 15 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-Markdown        3 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-Other           1 hr 57 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Go              29 hrs 4 mins   ████████░░░░░░░░░░░░░░░░░   31.58 %
+PHP             22 hrs 30 mins  ██████░░░░░░░░░░░░░░░░░░░   24.45 %
+CSS             6 hrs 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
+HTML            5 hrs 56 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
+INI             4 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+SQL             4 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+Markdown        3 hrs 54 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Other           3 hrs 4 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
 ```
 
 <!--END_SECTION:waka-->
