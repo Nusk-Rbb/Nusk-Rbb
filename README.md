@@ -28,18 +28,15 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 20 August 2024 - To: 12 December 2024
+From: 20 August 2024 - To: 13 December 2024
 
-Total Time: 88 hrs 57 mins
+Total Time: 89 hrs 18 mins
 
-Go              29 hrs 4 mins   ████████░░░░░░░░░░░░░░░░░   31.58 %
-PHP             22 hrs 30 mins  ██████░░░░░░░░░░░░░░░░░░░   24.45 %
-CSS             6 hrs 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
-HTML            5 hrs 56 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
-INI             4 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
-SQL             4 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-Markdown        3 hrs 54 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-Other           3 hrs 4 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Go              29 hrs 8 mins   ███████▓░░░░░░░░░░░░░░░░░   30.90 %
+PHP             22 hrs 30 mins  ██████░░░░░░░░░░░░░░░░░░░   23.86 %
+CSS             6 hrs 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+HTML            5 hrs 56 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+Other           5 hrs 1 min     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
 ```
 
 <!--END_SECTION:waka-->
