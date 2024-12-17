@@ -28,15 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 20 August 2024 - To: 15 December 2024
+From: 20 August 2024 - To: 16 December 2024
 
 Total Time: 89 hrs 33 mins
 
-Go              29 hrs 16 mins  ███████▓░░░░░░░░░░░░░░░░░   30.86 %
-PHP             22 hrs 30 mins  ██████░░░░░░░░░░░░░░░░░░░   23.72 %
-CSS             6 hrs 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
-HTML            5 hrs 57 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
-Other           5 hrs 17 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+Go              29 hrs 16 mins  ███████▓░░░░░░░░░░░░░░░░░   30.47 %
+PHP             22 hrs 30 mins  ██████░░░░░░░░░░░░░░░░░░░   23.43 %
+Other           6 hrs 29 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
 ```
 
 <!--END_SECTION:waka-->
