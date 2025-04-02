@@ -28,13 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 20 August 2024 - To: 30 March 2025
+From: 20 August 2024 - To: 01 April 2025
 
-Total Time: 161 hrs 45 mins
+Total Time: 161 hrs 51 mins
 
-Go                         39 hrs 22 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.93 %
-PHP                        22 hrs 42 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
-Nix                        13 hrs 14 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+Go                         39 hrs 22 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.92 %
+PHP                        22 hrs 42 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
+Nix                        13 hrs 20 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
 Other                      9 hrs 55 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
 ```
 
