@@ -28,15 +28,15 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 20 August 2024 - To: 23 December 2025
+From: 20 August 2024 - To: 24 December 2025
 
-Total Time: 186 hrs 52 mins
+Total Time: 189 hrs 35 mins
 
-Go                         40 hrs 9 mins   █████░░░░░░░░░░░░░░░░░░░░   20.08 %
-PHP                        22 hrs 42 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
-Markdown                   22 hrs 37 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
-Nix                        14 hrs 27 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
-Other                      13 hrs 8 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+Go                         40 hrs 9 mins   █████░░░░░░░░░░░░░░░░░░░░   19.81 %
+Markdown                   25 hrs 20 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
+PHP                        22 hrs 42 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
+Nix                        14 hrs 27 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+Other                      13 hrs 8 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
 ```
 
 <!--END_SECTION:waka-->
