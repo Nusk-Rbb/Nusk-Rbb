@@ -3,7 +3,6 @@
 ## Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nusk-Rbb&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nusk-Rbb&theme=default&exclude=bash)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nusk-Rbb&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nusk-Rbb&theme=default&exclude=bash)
 
 ## Langauage and Tools
