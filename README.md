@@ -17,7 +17,7 @@ I'm a CTF player from Japan.
 <!--START_SECTION:waka-->
 
 ```go
-From: 20 August 2024 - To: 06 April 2026
+From: 20 August 2024 - To: 08 April 2026
 
 Total Time: 197 hrs 34 mins
 
