@@ -17,15 +17,15 @@ I'm a CTF player from Japan.
 <!--START_SECTION:waka-->
 
 ```go
-From: 20 August 2024 - To: 21 September 2026
+From: 20 August 2024 - To: 22 September 2026
 
-Total Time: 204 hrs 20 mins
+Total Time: 206 hrs 11 mins
 
-Go                         40 hrs 14 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.43 %
-Markdown                   36 hrs 51 mins        ████▒░░░░░░░░░░░░░░░░░░░░   16.89 %
-PHP                        22 hrs 45 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
-Nix                        15 hrs 42 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
-Other                      13 hrs 58 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
+Go                         40 hrs 14 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.28 %
+Markdown                   37 hrs 25 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
+PHP                        22 hrs 45 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
+Nix                        16 hrs 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+Other                      13 hrs 58 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
 ```
 
 <!--END_SECTION:waka-->
