@@ -14,7 +14,7 @@ jobs:
     steps:
         # fork of athul/waka-readme patched to read stats with an OAuth
         # bearer token (WakaTime API keys went write-only on 2026-11-01)
-      - uses: Nusk-Rbb/waka-readme@oauth-bearer
+      - uses: Nusk-Rbb/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }} # OAuth access token: waka_tok_...
           ### meta
