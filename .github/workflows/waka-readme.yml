@@ -12,10 +12,11 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-        # this action name
-      - uses: athul/waka-readme@master # do NOT replace with anything else
+        # fork of athul/waka-readme patched to read stats with an OAuth
+        # bearer token (WakaTime API keys went write-only on 2026-11-01)
+      - uses: Nusk-Rbb/waka-readme@oauth-bearer
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }} # OAuth access token: waka_tok_...
           ### meta
           API_BASE_URL: https://wakatime.com/api # optional
           REPOSITORY: Nusk-Rbb/Nusk-Rbb # optional
